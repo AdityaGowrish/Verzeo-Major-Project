@@ -1,8 +1,9 @@
 # Verzeo-Major-Project-ML
 
-Problem Statement: You will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
+## Problem Statement: 
+You will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 
-FEATURES:
+## FEATURES:
 
 Name: The brand and model of the car.
 
